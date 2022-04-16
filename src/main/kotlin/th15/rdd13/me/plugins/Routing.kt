@@ -8,6 +8,7 @@ fun Application.configureRouting() {
 
     // Starting point for a Ktor app:
     routing {
+        trace { application.log.trace(it.buildText()) }
         get("/") {
             call.respondText("Hello, I'm a 'Welcome' clerk, and my name is Välkommen!")
         }
