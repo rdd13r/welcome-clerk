@@ -1,0 +1,5 @@
+= Support
+
+CAUTION: *_This component is not under warranty or support._*
+
+_Community support is a planned option._
