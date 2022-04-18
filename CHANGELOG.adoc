@@ -1,0 +1,11 @@
+= Announcements and Notable Changes
+
+[cols="<,<"]
+|===
+| Date | News
+
+| April 17, 2022 | Initial idea pilot.
+
+|===
+
+For fixes and more detail, please view the https://github.com/???/pulls?q=is%3Apr+is%3Aclosed[list of pull requests].

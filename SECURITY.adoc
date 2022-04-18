@@ -1,0 +1,23 @@
+= Secure Software: Distributed System Component
+
+IMPORTANT: The components demonstrated here are meant as sensible initializers and as such do *_NOT_* follow through to *_production ready_ examples*.
+
+== Supported Versions
+
+Versions >= 1.0 are supported as production-targeting *archetypes*.
+
+Each release sequence of the n.x format (i.e. 1.8) culminates into the next major incremental n+1.0 (i.e. 2.0) containing adequate production ready examples to warrant a stable archetype.
+
+Security updates are applied to the latest feature release (n.x) with the last one in the sequence contains no new features.
+
+In case of a major release leak a fix will be shipped with the next incremental (n.0) as (n.0.n -> n+1.0).
+
+All fixes are applied to the `main` branch and are automatically included in upcoming releases.
+
+CAUTION: _All security leaks are always bugs!_
+
+== Reporting a Vulnerability
+
+ToDo: Add template!!!
+
+TIP: _You can hire our community members for help with your commercial production component initialized via this artifact._
