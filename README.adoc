@@ -1,0 +1,44 @@
+= welcome-clerk
+R!dd13r <12781006+rdd13r@users.noreply.github.com>
+v0.1, Mon 18 Apr 2022 03:25:25 AM EDT
+:description: ❤ Kotlin ❤️DDD Aggregate Archetype
+:sectnums:
+:sectanchors:
+:sectlinks:
+:icons: font
+:toc: preamble
+:toclevels: 3
+:toc-title: DDD Aggregate
+:keywords: Kotlin DDD Aggregate Archetype
+:imagesdir: ./assets/img
+ifdef::env-name[:relfilesuffix: .adoc]
+
+[#img-ukes-with]
+.Stand With Ukraine
+[link=https://stand-with-ukraine.pp.ua]
+image:https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg[Stand With Ukraine]
+
+_This component is a template repository to be used as a seed for creation of DDD Aggregate link:++https://en.wikipedia.org/wiki/Archetype_(information_science)++[*Archetypes*^].
+A https://martinfowler.com/bliki/DDD_Aggregate.html[*DDD Aggregate*^] is a special kind of microservice regularly created and utilized by competent business software teams. Its definition is typically borne out of https://www.eventstorming.com/[*Event Storming*^]. Its nature resembles a job description for a 1920 business clerk. It is defined and implemented through https://dannorth.net/introducing-bdd/[behavior test specifications], such is https://en.wikipedia.org/wiki/Behavior-driven_development[*BDD*]. This is the universal business automation methodology https://en.wikipedia.org/wiki/Technology_adoption_life_cycle[among the market leaders^] in *2005* and the late majority by 2013._
+
+NOTE: This group of repositories only contains the archetypes expecting the consumer to adequately wield any end-to-end DDD/BDD process mastery.
+
+[#img-ukes-with-badge]
+[link=https://stand-with-ukraine.pp.ua]
+image:https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg[Stand With Ukraine]
+
+== rdd13 me th15
+
+.The Law of Software Success
+[quote, Linus Torvalds, lkml.org, 2000-08-25 ]
+____
+Talk is cheap. Show me the code.
+____
+
+This group of artifacts, labeled _rdd13 me th15_ ('riddle me this'), represents time and convenience based development from scratch and public sharing of reusable materials (typically known as `workup`s) based on decades of templating work at real customers.
+
+== Clerk (welcome)
+
+A 1922 clerk greeting customers arriving at a place of business is perhaps one of the most generic aggregates that can be imagined and implemented as a part of _virtual behavior discovery process_ and hence chosen for this repository seed template.
+
+== ToDo
