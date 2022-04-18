@@ -1,0 +1,22 @@
+= Attributions
+
+NOTE: _Copyright holders_ listed are hereby acknowledged on the content referenced or otherwise imparted on this works.
+
+== ToDo
+
+...
+
+== Licensing Attributions
+
+- https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository[Licensing a repository]
+- https://choosealicense.com/[Choose an open source license]
+- https://choosealicense.com/appendix/[choosealicense.com: Appendix]
+
+'''
+
+IMPORTANT: In addition to the explicitly chosen license public repositories on GitHub are governed by the next two legal constructs:
+
+'''
+
+- https://docs.github.com/en/site-policy/github-terms/github-terms-of-service[GitHub Terms of Service]
+- https://en.wikipedia.org/wiki/Limitations_and_exceptions_to_copyright[Limitations and exceptions to copyright]
