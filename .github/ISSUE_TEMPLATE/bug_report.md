@@ -1,13 +1,13 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: A bug report
+about: Create a defect report to help us understand and correct problems
+title: 'Defect Observation - summarize me ...'
+labels: 'defect'
+assignees: 'rdd13r'
 
 ---
 
-**Describe the bug**
+**Please describe the bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**

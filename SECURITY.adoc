@@ -1,6 +1,6 @@
 = Secure Software: Distributed System Component
 
-IMPORTANT: The components demonstrated here are meant as sensible initializers and as such do *_NOT_* follow through to *_production ready_ examples*.
+IMPORTANT: The components demonstrated here are meant as sensible *_initializers_* and as such do *_NOT_* follow through on *_production readiness_*. _Production readiness_ is addressed in each individual end-component separately as it must be. The _archetypes_ here are merely templates offering a convenient starting point with some of the most common needs to be anticipated preempted but not necessarily resolved.
 
 == Supported Versions
 
@@ -20,4 +20,4 @@ CAUTION: _All security leaks are always bugs!_
 
 https://github.com/rdd13r/welcome-clerk/issues/new?assignees=&labels=&template=bug_report.md&title=Potential%20Vulnerability%20Discovered%3A%20Describe%20Me%20Please%21[*Report a _Potential Security Issue!_*]
 
-TIP: _You can hire our community members for help with your commercial production component initialized via this artifact._
+TIP: _You can hire our community members for help with your commercial production component initialized via any of these artifacts._
