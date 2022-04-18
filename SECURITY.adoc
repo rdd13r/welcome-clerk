@@ -18,6 +18,6 @@ CAUTION: _All security leaks are always bugs!_
 
 == Reporting a Vulnerability
 
-ToDo: Add template!!!
+https://github.com/rdd13r/welcome-clerk/issues/new?assignees=&labels=&template=bug_report.md&title=Potential%20Vulnerability%20Discovered%3A%20Describe%20Me%20Please%21[*Report a _Potential Security Issue!_*]
 
 TIP: _You can hire our community members for help with your commercial production component initialized via this artifact._

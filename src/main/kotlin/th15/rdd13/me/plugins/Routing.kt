@@ -13,6 +13,7 @@ fun Application.configureRouting() {
             call.respondText("Hello, I'm a 'Welcome' clerk, and my name is Välkommen!")
         }
     }
+
     routing {
     }
 }
