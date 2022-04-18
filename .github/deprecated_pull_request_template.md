@@ -1,7 +1,10 @@
-My awesome description summary to the remarkable things I'd accomplished here:
+# Express Feature Pull Request
+
+_Given_ ... _When_ ... _Then_?
+
+> Sometimes it just can be the feature ...
 
 - [ ] My context is absolute!
-- [ ] My bias is in check :smirk:
-- [ ] My code rocks :innocent:
+- [ ] My bias is in check ;)
 
 My pleasure contributing!
