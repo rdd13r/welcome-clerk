@@ -35,7 +35,7 @@ ____
 Talk is cheap. Show me the code.
 ____
 
-This group of artifacts, labeled _rdd13 me th15_ ('riddle me this'), represents time and convenience based development from scratch and public sharing of reusable materials (typically known as `workup`s) based on decades of templating work at real customers.
+This group of artifacts, labeled _rdd13 me th15_ ('riddle me this'), represents time and convenience based development from scratch and public sharing of reusable materials (typically known as `workup` s) based on decades of templating work at real customers'.
 
 == Clerk (welcome)
 

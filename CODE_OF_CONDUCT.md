@@ -59,8 +59,9 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-Create a GitHub Issues.
+reported to the community leaders responsible for enforcement by 
+[_Creating a GitHub Issue_](https://github.com/rdd13r/welcome-clerk/issues/new/choose "By default report as 'Blank Issue' to @rdd13r").
+
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
