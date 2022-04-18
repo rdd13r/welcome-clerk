@@ -1,3 +1,30 @@
 = Acknowledgements
 
 NOTE: Authors listed are hereby acknowledged on the content referenced or otherwise imparted on this works.
+
+== ToDo:
+
+...
+
+== Technical References
+
+=== Libraries
+
+* https://ktor.io/[*_Ktor_*] (home) https://github.com/ktorio/ktor
+** https://ktor.io/learn/[_Ktor Learn_: Getting Started]
+** https://ktor.io/docs/ktor-server.html[*Ktor Server*] <- start here
+** https://api.ktor.io/[*_Ktor Api Docs*_] <- _main reference_
+
+=== Language References
+
+* https://kotlinlang.org/spec/introduction.html[Kotlin language specification]
+** https://kotlinlang.org/docs/home.html[*_Kotlin docs_*]
+** https://kotlinlang.org/[_Kotlin_] (home)
+** https://kotlinlang.org/docs/kotlin-reference.pdf[Kotlin Language Documentation 1.6.20] (pdf)
+* https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc Language Documentation]
+** https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[_AsciiDoc Syntax Quick Reference_]
+** https://asciidoctor.org/docs/asciidoc-writers-guide/[*_AsciiDoc Writer’s Guide_*]
+
+==== Munchkin
+
+* https://kotlin-quick-reference.com/[Kotlin Quick Reference] by Alvin Alexander
