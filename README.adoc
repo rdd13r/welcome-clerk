@@ -42,3 +42,5 @@ This group of artifacts, labeled _rdd13 me th15_ ('riddle me this'), represents 
 A 1922 clerk greeting customers arriving at a place of business is perhaps one of the most generic aggregates that can be imagined and implemented as a part of _virtual behavior discovery process_ and hence chosen for this repository seed template.
 
 == ToDo
+
+_describe the spike_ ...
