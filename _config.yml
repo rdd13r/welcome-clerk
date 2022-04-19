@@ -1,0 +1,76 @@
+title: DDD Archetype 🇺🇸💙💛
+email: 12781006+rdd13r@users.noreply.github.com
+description: >-
+  <h2>🇺🇸 American Archetypes 💙💛</h2>
+  <p> ❤❤❤️</p>
+
+author: Vadim Kuhay
+#url: https://github.io
+#baseurl: /repo
+#base_url: /repo
+
+#logo: /assets/img/ddd.png
+show_downloads: true
+#repository: rdd13r/rdd13r
+
+#theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-asciidoc
+
+# Minima social links
+twitter_username: rdd13r
+github_username: rdd13r
+linkedin_username: https://www.linkedin.com/in/vadimkuhay/
+rss: rdd13r
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+#header_pages:
+#  - _pages/frontpage.md
+#  - _pages/about.md
+#  - _pages/archive.md
+#include:
+#  - _pages
+
+exclude:
+  - .git/
+  - .github/
+  - .gradle/
+  - .idea/
+  - .run/
+  - assets/
+  - gradle/
+  - src/
+  - .gitignore
+  - ACKNOWLEDGMENTS.adoc
+  - ATTRIBUTIONS.adoc
+  - AUTHORS
+  - build.gradle.kts
+  - CHANGELOG.adoc
+  - CODE_OF_CONDUCT.md
+  - CODEOWNERS
+  - _config.yml
+  - CONTRIBUTING.adoc
+  - CONTRIBUTORS
+  - Gemfile
+  - Gemfile.lock
+  - gradle.properties
+  - gradlew
+  - index.adoc
+  - LICENSE
+  - README
+  - README.adoc
+  - README.md
+  - SECURITY.adoc
+  - settings.gradle.kts
+  - SUPPORT.adoc
+  - docker-compose.yml

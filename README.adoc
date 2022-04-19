@@ -35,11 +35,30 @@ ____
 Talk is cheap. Show me the code.
 ____
 
+&nbsp; +
+&nbsp;
+
 This group of artifacts, labeled _rdd13 me th15_ ('riddle me this'), represents time and convenience based development from scratch and public sharing of reusable materials (typically known as `workup` s) based on decades of templating work at real customers'.
 
-== Clerk (welcome)
+== About Security
 
-A 1922 clerk greeting customers arriving at a place of business is perhaps one of the most generic aggregates that can be imagined and implemented as a part of _virtual behavior discovery process_ and hence chosen for this repository seed template.
+In
+https://en.wikipedia.org/wiki/Hacker_culture[our culture^],
+founded on the
+https://en.wikipedia.org/wiki/Virtue_ethics[virtue ethic], _rather_,
+https://en.wikipedia.org/wiki/Hacker_ethic[its modern day equivalent],
+_which happens to be the *fiercely protected* culture of all technology-borne market leaders of today_
+(https://jobs.netflix.com/culture[just an example]),
+*the sequence of addressed concerns follows this path*: +
+*_security_* -> *fixture* -> _feature_ -> socialization; +
+which, as many may notice, is the exact opposite to how _IT cogs_ do things at _laggards_,
+say, prominent American insurance or financial giants.
+
+* https://rdd13r.github.io/welcome-clerk[GitHub Pages Qodana Scan Results]
+
+== About Clerk (welcome)
+
+A 1922 clerk greeting customers arriving at the place of business is perhaps one of the most generic aggregates that can be imagined and implemented as a part of _virtual behavior discovery process_ and hence chosen for this repository seed template.
 
 == ToDo
 

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+= welcome-clerk: Documentation
+R!dd13r <12781006+rdd13r@users.noreply.github.com>
+v0.0.1.th15.rdd13.me; Tue 19 Apr 2022 04:18:12 PM EDT: incremental.
+:description: ❤❤ Kotlin ❤❤ Ktor ❤❤ DDD ❤❤ Archetypes ❤❤
+:toc: preamble
+:toclevels: 2
+:toc-title: Archetype repository tempate <- change me
+:keywords: archetype kotlin ktor ddd
+:imagesdir: ./assets/img
+:tip-caption: 💡️
+:note-caption: ℹ️
+:important-caption: ❗
+:caution-caption: 🔥
+:warning-caption: ⚠️
+
+.🇺🇸 American Archetypes
+[quote, R!dd13r (rdd13r) 💙💛, tldr.{Haystak.v3hasharchive}.onion/2021]
+____
+Dastard laggards you'd saved of pity are all the stones cast in the night +
+- You'd best find to simply favor light ...
+____
+
+*_Archetypes here are extracted from the left of the adoption curve._*
+
+'''
+
