@@ -62,3 +62,6 @@ hs_err_pid*
 *.zip
 *.tar.gz
 *.rar
+
+### rdd13r
+/Gemfile.lock

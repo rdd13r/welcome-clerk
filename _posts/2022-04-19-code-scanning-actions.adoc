@@ -1,0 +1,16 @@
+---
+layout: post
+categories: implementation devops
+author: rdd13r
+meta: Trail
+tags: Issue Hackerdom
+---
+
+https://github.com/rdd13r/welcome-clerk/issues/7[*_#7 Feature request - bootstrap security code scanning_*]
+
+I want security code scanning +
+so that my resulting component project has:
+
+* a security scanning start offered
+* a sensible default scan coverage
+* a placeholder of good practice

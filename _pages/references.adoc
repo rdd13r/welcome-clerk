@@ -1,0 +1,14 @@
+---
+layout: page
+title: References
+---
+
+_Without these few know-hows there's no aggregate for you._
+
+== need to know...
+
+* https://en.wikipedia.org/wiki/Domain-driven_design[Domain Driven Design]footnote:[Note that Eric Evans did not invent DDD, merely documented what he observed in his own understanding - that understanding is widely disputed by top DDD experts dividing the community to split into 2 with the more affluent and capable engineers gravitating to the camp opposed to Evans, the Alberto Brandolini camp.]
+** https://www.lightbend.com/[Lightbend] class on https://academy.lightbend.com/courses/course-v1:lightbend+LRA-DomainDrivenDesign+v1/about[Reactive Architecture(2): Domain Driven Design]
+* https://en.wikipedia.org/wiki/Event_storming[Event Storming] by https://www.eventstorming.com/[Alberto Brandolini]
+* https://www.confluent.io/learn/distributed-systems/[Distributed System] and https://en.wikipedia.org/wiki/Microservices[Microservices] (event driven)footnote:[I'm recommending this old post when you're ready: https://jimmybogard.com/the-false-dichotomy-of-monoliths-and-microservices[The False Dichotomy of Monoliths and Microservices]]
+* https://kotlinlang.org/[Kotlin] and https://ktor.io/[Ktor]footnote:[Please cover https://github.com/Kotlin/kotlinx.coroutines well!]
