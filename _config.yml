@@ -42,6 +42,13 @@ minima:
 #  - _pages
 
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .git/
   - .github/
   - .gradle/
@@ -50,7 +57,9 @@ exclude:
   - assets/
   - gradle/
   - src/
+  - .en.text
   - .gitignore
+  - .spellcheck.yml
   - ACKNOWLEDGMENTS.adoc
   - ATTRIBUTIONS.adoc
   - AUTHORS
@@ -61,8 +70,6 @@ exclude:
   - _config.yml
   - CONTRIBUTING.adoc
   - CONTRIBUTORS
-  - Gemfile
-  - Gemfile.lock
   - gradle.properties
   - gradlew
   - LICENSE

@@ -9,6 +9,9 @@ on:
       - 'releases/*'
   workflow_dispatch:
   pull_request:
+    branches:
+      - main
+      - 'releases/*'
   schedule:
     - cron: '26 19 * * 5'
 

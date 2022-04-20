@@ -1,0 +1,25 @@
+spellchecker: aspell
+
+matrix:
+  - name: presentation
+    sources:
+      - README.md
+      - README.adoc
+      - index.adoc
+    aspell:
+      lang: en
+    dictionary:
+      wordlists:
+        - .en.text
+    pipeline:
+      - pyspelling.filters.markdown:
+      - pyspelling.filters.html:
+          comments: false
+          attributes:
+            - title
+            - alt
+          ignores:
+            - code
+            - pre
+      - pyspelling.filters.url:
+    default_encoding: utf-8
