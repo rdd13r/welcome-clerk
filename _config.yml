@@ -6,12 +6,12 @@ description: >-
 
 author: Vadim Kuhay
 url: https://rdd13r.github.io
-#baseurl: /repo
+#baseurl:
 base_url: /welcome-clerk
 
 #logo: /assets/img/ddd.png
 show_downloads: true
-#repository: rdd13r/rdd13r
+repository: rdd13r/welcome-clerk
 
 #theme: minima
 remote_theme: jekyll/minima
