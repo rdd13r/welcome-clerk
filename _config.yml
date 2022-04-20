@@ -5,9 +5,9 @@ description: >-
   <p> ❤❤❤️</p>
 
 author: Vadim Kuhay
-#url: https://github.io
+url: https://rdd13r.github.io
 #baseurl: /repo
-#base_url: /repo
+base_url: /welcome-clerk
 
 #logo: /assets/img/ddd.png
 show_downloads: true
