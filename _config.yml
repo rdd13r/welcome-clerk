@@ -65,7 +65,6 @@ exclude:
   - Gemfile.lock
   - gradle.properties
   - gradlew
-  - index.adoc
   - LICENSE
   - README
   - README.adoc
