@@ -6,8 +6,7 @@ description: >-
 
 author: Vadim Kuhay
 url: https://rdd13r.github.io
-#baseurl:
-base_url: /welcome-clerk
+baseurl: /welcome-clerk
 
 #logo: /assets/img/ddd.png
 show_downloads: true
