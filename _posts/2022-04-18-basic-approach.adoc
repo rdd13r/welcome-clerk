@@ -1,0 +1,13 @@
+---
+layout: post
+categories: strategy methodology
+author: rdd13r
+meta: Methodology
+tags: Philosophy Ideology
+---
+
+The approach my partner recommends, and I take is as follows:
+
+* best effort, always on, incremental
+* competed cross-concern iterations
+* continuous incremental spiking

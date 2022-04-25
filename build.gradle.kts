@@ -1,13 +1,17 @@
+import io.gitlab.arturbosch.detekt.Detekt
+import io.gitlab.arturbosch.detekt.DetektCreateBaselineTask
 
 plugins {
     application
     kotlin("jvm") version "1.6.20"
+    id("io.gitlab.arturbosch.detekt") version "1.20.0"
+    id("org.jetbrains.qodana") version "0.1.12"             // TBD: docker as a dependency
 }
 
-group = "th15.rdd13.me"
+group = "me.rdd13.th15"
 version = "0.0.1"
 application {
-    mainClass.set("th15.rdd13.me.ApplicationKt")
+    mainClass.set("me.rdd13.th15.ApplicationKt")
 
     val isDevelopment: Boolean = project.ext.has("development")
     applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
@@ -30,4 +34,26 @@ dependencies {
 
     testImplementation(kotlin("test"))
     testImplementation("io.ktor:ktor-server-test-host:2.0.0")
+}
+
+// https://detekt.dev/docs/gettingstarted/gradle
+detekt {
+    buildUponDefaultConfig = true
+    allRules = false
+    config = files("$projectDir/config/detekt.yml")
+    baseline = file("$projectDir/config/baseline.xml")
+}
+
+tasks.withType<Detekt>().configureEach {
+    jvmTarget = "11"
+    reports {
+        html.required.set(true)
+        xml.required.set(true)
+        txt.required.set(true)
+        sarif.required.set(true)
+    }
+}
+
+tasks.withType<DetektCreateBaselineTask>().configureEach {
+    jvmTarget = "11"
 }

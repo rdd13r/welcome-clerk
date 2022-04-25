@@ -1,0 +1,13 @@
+---
+layout: post
+categories: implementation strategy
+author: rdd13r
+meta: Trail
+tags: Issue Ideology
+---
+
+As a library producer seeking options to collaborate with our community +
+I want to offer repository Community Standards contract files +
+So that the library can enjoy useful active development.
+
+https://github.com/rdd13r/welcome-clerk/issues/5[Feature request - acknowledgments and attributions]

@@ -1,0 +1,27 @@
+[#img-ukes-with-badge]
+[link=https://stand-with-ukraine.pp.ua]
+image:https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg[Stand With Ukraine]
+
+.🇺🇸 American Archetypes
+[quote, R!dd13r (rdd13r) 💙💛, tldr.{Haystak.v3hasharchive}.onion/2021]
+____
+Dastard laggards you'd saved of pity are all the stones cast in the night +
+- You'd best find to simply favor light ...
+____
+
+*_Archetypes here are extracted from the left of the adoption curve._*
+
+'''
+
+https://github.com/rdd13r/welcome-clerk
+
+_This component is a template repository to be used as a seed for creation of DDD Aggregate link:++https://en.wikipedia.org/wiki/Archetype_(information_science)++[*Archetypes*^].
+A https://martinfowler.com/bliki/DDD_Aggregate.html[*DDD Aggregate*^] is a special a microservice regularly created and utilized by competent business software teams. Its definition is typically borne out of https://www.eventstorming.com/[*Event Storming*^]. Its nature resembles a job description for a 1920 business clerk. It is defined and implemented through https://dannorth.net/introducing-bdd/[behavior test specifications], such is https://en.wikipedia.org/wiki/Behavior-driven_development[*BDD*]. This is the universal business automation methodology https://en.wikipedia.org/wiki/Technology_adoption_life_cycle[among the market leaders^] in *2005* and the late majority by 2013._
+
+
+'''
+
+[#img-ukes-with]
+.Stand With Ukraine
+[link=https://stand-with-ukraine.pp.ua]
+image:https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg[Stand With Ukraine]

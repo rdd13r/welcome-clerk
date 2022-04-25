@@ -1,0 +1,11 @@
+---
+layout: post
+categories: implementation devops
+author: rdd13r
+meta: Trail
+tags: Issue Hackerdom
+---
+
+Putting actions together over existing discovery story.
+
+https://github.com/rdd13r/welcome-clerk/issues/7[*_#7 Feature request - bootstrap security code scanning_*]

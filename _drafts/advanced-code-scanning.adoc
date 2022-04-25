@@ -1,0 +1,18 @@
+---
+layout: post
+categories: "implementation"
+author: rdd13r
+meta: "Trail"
+tags: Issue
+---
+
+ToDo: ON:
+
+* https://detekt.dev/reporting.html
+* https://github.com/detekt
+
+
+Refs
+
+* https://github.com/rdd13r/minima
+* https://jekyllrb.com/docs/

@@ -1,0 +1,93 @@
+---
+layout: page
+title: Security
+---
+
+*_STEP 0 (zero)_*
+
+
+In
+https://en.wikipedia.org/wiki/Hacker_culture[our culture^],
+founded on the
+https://en.wikipedia.org/wiki/Virtue_ethics[virtue ethic], _rather_,
+https://en.wikipedia.org/wiki/Hacker_ethic[its modern day equivalent],
+_which happens to be the *fiercely protected* culture of all technology-borne market leaders of today_
+(https://jobs.netflix.com/culture[just an example]),
+*the sequence of addressed concerns follows this path*: +
+&nbsp; +
+*_security_* -> *fixture* -> _feature_ -> socialization; +
+&nbsp; +
+which, as many may notice, is the exact opposite to how _IT cogs_ do things at _laggards_,
+say, prominent American insurance or financial giants.
+
+*_Immediately_* upon _preliminary modelling_ of the business domain https://martinfowler.com/bliki/BoundedContext.html[*bounded context*^] two fundamental concerns are mapped on the *_team's risk board_*, typically to the left of _the front-and-center *event storming* board_, which are:
+
+* authorizations, entitlements, sensitivity - _who can do or get to resources_
+* ownership, custody, privacy, retention, disposition - _how information handling must happen_
+* *compliance* data breach recovery pipelines - _detect, inspect, assess, mitigate, report_
+
+The *_security crosscut_ is directly wired into corporate _risk policies_* and is the only crosscut with _unbounded_ scope.
+
+[WARNING]
+.Laggard check
+====
+Be vigilant: due to lack of competence in certain institutions this concern is executed last instead of first.
+====
+
+== Fixture
+
+*_STEP 1 (one)_*
+
+With the _bounded context (BC)_ placement firmly discovered as evident from security mapping the expected artifacts can be:
+
+. created _blank in-whole_
+. with security _fully wired-in_
+. *deployed _to production_!*
+. as at-least a single BC anchor
+
+*This is the meaning of the _DevOps_: dev and ops together end-to-end with the ownership of solution on DEV!!!*
+
+[WARNING]
+.Laggard check
+====
+Be vigilant: it's not the Ops, often known as _"The DevOps Team"_ at laggards, that decides how artifacts are built and deployed - it's the developers making the artifacts, owning full freedom to create and deploy each as they see fit. Laggards hide incompetence behind fake "standards".
+====
+
+== Feature
+
+*_STEP 2 (two)_*
+
+Now that a blank component make a perfect automated test bed, formally a *_fixture_*, each behavior can be implemented as *_test first_* and pushed to production continuously in small increments.
+
+[WARNING]
+.Laggard check
+====
+Be vigilant: look at your team - this is where laggards always fail, to produce test first, which is the same as "to define outcome first". Laggards tend to run things backwards: first code, then test, then figure out what's really needed.
+====
+
+== Socialization
+
+*_STEP 3 (three)_*
+
+Like everything else, letting people know "here, new, come play in production and check it out" is _fully automated_. This step is always fully completed last on the first iteration of any delivery and stays completed ever since.
+
+[WARNING]
+.Laggard check
+====
+Be vigilant: look at your team - are people socializing *_vaporware?_*
+====
+
+
+== Automation
+
+Automation is the necessary evil, and correctly it is only produced by the delivery team (dev, not ops).
+
+[WARNING]
+.Laggard check
+====
+Be vigilant: look at your team - are there people external to your team trying to tell you how to automate *_your deliverables_*?
+====
+
+'''
+
+* https://rdd13r.github.io/welcome-clerk/qodana/[GitHub Pages Qodana Scan Results]

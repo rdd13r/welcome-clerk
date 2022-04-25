@@ -1,0 +1,11 @@
+---
+layout: post
+categories: implementation methodology
+author: rdd13r
+meta: Trail
+tags: Issue Ideology
+---
+
+_Creation of a basic repository that can hold a Ktor template project._
+
+https://github.com/rdd13r/welcome-clerk/issues/1[Feature request - Baseline VCS BDD Template]

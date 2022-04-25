@@ -1,9 +1,14 @@
-package th15.rdd13.me.plugins
+/*
+MIT License
+Copyright (c) 2022 R!dd13r (rdd13r) - Vadim Kuhay
+See LICENSE
+ */
+package me.rdd13.th15.plugins
 
-import io.ktor.client.request.*
-import io.ktor.client.statement.*
-import io.ktor.http.*
-import io.ktor.server.testing.*
+import io.ktor.client.request.get
+import io.ktor.client.statement.bodyAsText
+import io.ktor.http.HttpStatusCode
+import io.ktor.server.testing.testApplication
 import kotlin.test.Test
 import kotlin.test.assertEquals
 

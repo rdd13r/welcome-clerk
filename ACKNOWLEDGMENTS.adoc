@@ -2,9 +2,12 @@
 
 NOTE: Authors listed are hereby acknowledged on the content referenced or otherwise imparted on this works.
 
-== ToDo:
+== Hackers
 
-...
+* https://stackoverflow.com/users/2684660/asontu[asontu (Herman Scheele)]
+** https://asontu.github.io/2020/06/08/inspecting-jekyll-objects-for-github-pages.html[Inspecting Jekyll objects for GitHub Pages]
+* https://www.aleksandrhovhannisyan.com/[Aleksandr Hovhannisyan]
+** https://www.aleksandrhovhannisyan.com/blog/github-pages-vs-netlify/#github-pages-vs-netlify-why-i-switched[Goodbye, GitHub Pages—Hello, Netlify]
 
 == Technical References
 
@@ -28,3 +31,8 @@ NOTE: Authors listed are hereby acknowledged on the content referenced or otherw
 ==== Munchkin
 
 * https://kotlin-quick-reference.com/[Kotlin Quick Reference] by Alvin Alexander
+
+=== Tools and Utilities
+
+* https://github.com/JetBrains/qodana-action[Qodana Scan]
+* https://github.com/peaceiris/actions-gh-pages[GitHub Pages Action]

@@ -1,1 +1,1 @@
-rootProject.name = "th15.rdd13.me.welcome-clerk"
+rootProject.name = "welcome-clerk"
