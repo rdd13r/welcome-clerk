@@ -24,13 +24,6 @@ out/
 *.patch
 *.diff
 
-### Gradle template
-.gradle
-**/build/
-!src/**/build/
-gradle-app.setting
-!gradle-wrapper.jar
-
 ### Vim template
 [._]*.s[a-v][a-z]
 !*.svg  # comment out if you don't need vector files
@@ -62,6 +55,13 @@ hs_err_pid*
 *.zip
 *.tar.gz
 *.rar
+
+### Gradle template
+.gradle
+**/build/
+!src/**/build/
+gradle-app.setting
+!/gradle/wrapper/gradle-wrapper.jar
 
 ### rdd13r
 /Gemfile.lock
