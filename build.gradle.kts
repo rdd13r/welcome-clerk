@@ -5,6 +5,7 @@ plugins {
     application
     kotlin("jvm") version "1.6.20"
     id("io.gitlab.arturbosch.detekt") version "1.20.0"
+    id("org.jetbrains.qodana") version "0.1.12"             // TBD: docker as a dependency
 }
 
 group = "me.rdd13.th15"
