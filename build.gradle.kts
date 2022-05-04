@@ -3,9 +3,9 @@ import io.gitlab.arturbosch.detekt.DetektCreateBaselineTask
 
 plugins {
     application
-    kotlin("jvm") version "1.6.20"
+    kotlin("jvm") version "1.6.21"
     id("io.gitlab.arturbosch.detekt") version "1.20.0"
-    id("org.jetbrains.qodana") version "0.1.12"             // TBD: docker as a dependency
+    id("org.jetbrains.qodana") version "0.1.13"             // TBD: docker as a dependency
 }
 
 group = "me.rdd13.th15"
@@ -33,7 +33,7 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:1.2.11")
 
     testImplementation(kotlin("test"))
-    testImplementation("io.ktor:ktor-server-test-host:2.0.2-eap-388")
+    testImplementation("io.ktor:ktor-server-test-host:2.0.1")
 }
 
 // https://detekt.dev/docs/gettingstarted/gradle
