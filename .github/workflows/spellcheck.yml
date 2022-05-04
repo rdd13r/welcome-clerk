@@ -17,5 +17,5 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - uses: igsekor/pyspelling-any@v0.0.2
+      - uses: igsekor/pyspelling-any@v1.0.4
         name: Spellcheck
