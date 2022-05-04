@@ -27,7 +27,7 @@ tasks.test {
 }
 
 dependencies {
-    implementation("io.ktor:ktor-server-core-jvm:2.0.0")
+    implementation("io.ktor:ktor-server-core-jvm:2.0.2-eap-388")
     implementation("io.ktor:ktor-server-netty-jvm:2.0.0")
 
     implementation("ch.qos.logback:logback-classic:1.2.11")
