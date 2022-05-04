@@ -3,7 +3,7 @@ import io.gitlab.arturbosch.detekt.DetektCreateBaselineTask
 
 plugins {
     application
-    kotlin("jvm") version "1.6.20"
+    kotlin("jvm") version "1.6.21"
     id("io.gitlab.arturbosch.detekt") version "1.20.0"
     id("org.jetbrains.qodana") version "0.1.12"             // TBD: docker as a dependency
 }
