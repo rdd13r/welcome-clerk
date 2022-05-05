@@ -18,16 +18,23 @@ npx create-react-app another-react-web-client --template typescript
 ----
 
 **Make sure that it works, see _<<__the_react_web,Available Scripts>>_!**
-
 Add some more _ignore_ if necessary.
 
 === 2. Wrap it with Gradle
 
 _It is possible to develop this component on the system that doesn't offer JSx/TSx ecosystem using only Gradle plugins._
-Gradle dependencies will be automatically pulled to support JavaScript ecosystem.
+Gradle dependencies will be automatically pulled to support JavaScript ecosystem on certain configurations.
 
+[WARNING]
+.Wrapping native JS project is a lousy approach!
+====
+While many conservative teams have done so, we strongly discourage this practice as **doing it right is _far_ more rewarding**!
+This example shows the best, though discouraged, working copy, and it has the following properties:
 
-ToDo: Gradle plugin
+. ToDo:!.
+. ToDo:!.
+. ToDo:!.
+====
 
 ''''
 
