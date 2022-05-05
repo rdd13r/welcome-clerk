@@ -13,3 +13,5 @@ plugins {
     id("io.gitlab.arturbosch.detekt") version "1.20.0" apply false
     id("org.jetbrains.qodana") version "0.1.13" apply false
 }
+
+defaultTasks("clean", "build", "test")

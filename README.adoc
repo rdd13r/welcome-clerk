@@ -18,6 +18,14 @@ ifdef::env-name[:relfilesuffix: .adoc]
 [link=https://stand-with-ukraine.pp.ua]
 image:https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg[Stand With Ukraine]
 
+'''
+
+* `./gradlew` - with a good IDE you'll have _an 'in-IDE' execution arrow_ here
+* `gradle clean` - having global Gradle intercept to wrapper clean out caches
+* `gradle run` - this will launch the aggregate root to http://0.0.0.0:8080/
+
+'''
+
 To get started with your own _Domain Driven Design Aggregate_ you may simply fork this repository and start exploring. This artifact intends to leave some breadcrumbs about. But this is not intended to offer a comprehensive tutorial on how to make a technology-driven business. This is just a hopefully sensible enough default starting point for you, me, us to make one's own journey in code over some business domain.
 
 NOTE: This group of repositories only contains the archetypes expecting the consumer to adequately wield any end-to-end DDD/BDD process mastery.
