@@ -9,7 +9,7 @@
     },
     {
       "matchPackageNames": ["jekyll"],
-      "allowedVersions": "!4.0$/"
+      "allowedVersions": "<4.0"
     }
   ]
 }
