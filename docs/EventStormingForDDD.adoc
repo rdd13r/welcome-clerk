@@ -1,0 +1,3 @@
+= Placeholder: To develop Event Storming Trail
+
+ToDo: ES

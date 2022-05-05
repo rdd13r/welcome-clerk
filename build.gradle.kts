@@ -8,8 +8,12 @@ allprojects {
         maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
     }
 }
+
 plugins {
     kotlin("multiplatform") apply false
-    id("io.gitlab.arturbosch.detekt") version "1.20.0" apply false
-    id("org.jetbrains.qodana") version "0.1.13" apply false
+    id("io.gitlab.arturbosch.detekt") apply false
+    id("org.jetbrains.qodana") apply false
+    id("com.github.node-gradle.node") apply false
 }
+
+defaultTasks("clean", "yarn_cache_clean")

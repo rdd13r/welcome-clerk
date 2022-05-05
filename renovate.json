@@ -6,6 +6,10 @@
     {
       "matchPackageNames": ["io.ktor:"],
       "allowedVersions": "!.*/\\-eap/\\-.*$/"
+    },
+    {
+      "matchPackageNames": ["jekyll"],
+      "allowedVersions": "!4.0$/"
     }
   ]
 }

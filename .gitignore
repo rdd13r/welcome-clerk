@@ -13,7 +13,7 @@ _site/
 *.ipr
 *.iws
 **-plugin.xml
-out/
+out
 
 ### Linux template
 *~
@@ -47,14 +47,17 @@ Icon
 ### Kotlin template
 hs_err_pid*
 *.class
-*.log
+*.log*
 *.jar
 *.war
 *.nar
 *.ear
 *.zip
 *.tar.gz
+*.tgz
 *.rar
+log
+logs
 
 ### Gradle template
 .gradle
@@ -63,5 +66,52 @@ hs_err_pid*
 gradle-app.setting
 !/gradle/wrapper/gradle-wrapper.jar
 
+### Node
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+pids
+*.pid*
+*.seed
+lib-cov
+coverage
+*.lcov
+.nyc_output
+.grunt
+bower_components
+.lock-wscript
+build/Release
+node_modules/
+jspm_packages/
+web_modules/
+*.tsbuildinfo
+.npm
+.eslintcache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.node_repl_history
+.yarn-integrity
+.env*
+.cache
+.parcel-cache
+.next
+.nuxt
+dist
+.cache/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+.vscode-test
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+build
+
 ### rdd13r
 /Gemfile.lock
+# Note, this is added as a stop measure for a component that isn't used
+/alien/react-web-client/yarn.lock
