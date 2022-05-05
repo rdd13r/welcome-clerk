@@ -64,6 +64,10 @@ image:https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges
 
 A 1922 clerk greeting customers arriving at the place of business is perhaps one of the most generic aggregates that can be imagined and implemented as a part of _virtual behavior discovery process_ and hence chosen for this repository seed template;  https://rdd13r.github.io/welcome-clerk/_pages/about.html[here is more on aggregates...]
 
+== Practicality
+
+_This aggregate can also be used in https://martinfowler.com/articles/break-monolith-into-microservices.html[breaking down a monolith] using the https://martinfowler.com/bliki/StranglerFigApplication.html[Strangler Fig App] approach, for example - see the xref:alien/react-web-client/README.adoc#_2_wrap_it_with_gradle[imported and wrapped io.js example] in the *alien/* folder._
+
 == Knowledge and Acumen
 
 [link=https://stand-with-ukraine.pp.ua]
