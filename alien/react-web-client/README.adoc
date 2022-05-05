@@ -24,6 +24,7 @@ Add some more _ignore_ if necessary.
 === 2. Wrap it with Gradle
 
 _It is possible to develop this component on the system that doesn't offer JSx/TSx ecosystem using only Gradle plugins._
+Gradle dependencies will be automatically pulled to support JavaScript ecosystem.
 
 ''''
 
