@@ -26,7 +26,7 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:1.2.11")
 
     testImplementation(kotlin("test"))
-    testImplementation("io.ktor:ktor-server-test-host:2.0.1")
+    testImplementation("io.ktor:ktor-server-test-host:2.0.3")
 }
 
 // https://detekt.dev/docs/gettingstarted/gradle
