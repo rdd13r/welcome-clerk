@@ -1,0 +1,32 @@
+{
+  "modules": [
+    {
+      "name": "welcome-clerk",
+      "languageLevel": 11
+    },
+    {
+      "name": "welcome-clerk.alien",
+      "languageLevel": 11
+    },
+    {
+      "name": "welcome-clerk.domain",
+      "languageLevel": 11
+    },
+    {
+      "name": "welcome-clerk.alien.react-web-client",
+      "languageLevel": 11
+    },
+    {
+      "name": "welcome-clerk.domain.root",
+      "languageLevel": 11
+    },
+    {
+      "name": "welcome-clerk.domain.root.test",
+      "languageLevel": 11
+    },
+    {
+      "name": "welcome-clerk.domain.root.main",
+      "languageLevel": 11
+    }
+  ]
+}
